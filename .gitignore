@@ -1,7 +1,4 @@
 
-### 3. **.gitignore File**
-
-The **.gitignore** file ensures that unnecessary files (like system files or dependency folders) are not tracked by Git.
 
 ```gitignore
 # Node modules (if using Node.js or any package manager)
