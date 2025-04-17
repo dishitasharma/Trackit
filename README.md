@@ -15,4 +15,6 @@ TRACKIT is a lightweight task management app built to help you track your daily 
 - JavaScript
 
 ## Getting Started
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/your-username/TRACKIT.git
+
+2. Open `index.html` in your browser.
